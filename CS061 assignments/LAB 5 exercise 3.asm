@@ -1,12 +1,5 @@
 ;=========================================================================
-; Name & Email must be EXACTLY as in Gradescope roster!
-; Name: Emilio A Rivas
-; Email: emilio.rivas@email.ucr.edu
 ; 
-; Assignment name: 
-; Lab section: 002
-; TA: Karan
-;
 ;=========================================================================
 
 
@@ -207,4 +200,5 @@ SPACE_pt2 .FILL #32
 ;---------------	
 ;END of PROGRAM
 ;---------------	
+
 .END 
