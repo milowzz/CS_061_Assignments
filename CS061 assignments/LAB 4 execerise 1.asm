@@ -1,12 +1,6 @@
 ;=========================================================================
-; Name & Email must be EXACTLY as in Gradescope roster!
-; Name: Emilio A Rivas
-; Email: emilio.rivas@email.ucr.edu
-; 
-; Assignment name: 
-; Lab section: 002
-; TA: Karan
-; 
+;
+;
 ; NOTE: Use R7 only for storing addresses 
 ; JSRR: will jump to that address and automatically save the next line's address location after where JSRR was set to R7
 ; RET: Make the register to go back where it came from 
@@ -70,4 +64,5 @@ RET
 ;---------------	
 ;END of PROGRAM
 ;---------------	
+
 .END 
