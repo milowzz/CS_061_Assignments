@@ -1,15 +1,4 @@
-; Name & Email must be EXACTLY as in Gradescope roster!
-; Name: Tejas Shah
-; Email: tshah021@ucr.edu
-; 
-; Assignment name: Assignment 5
-; Lab section: 023
-; TA: Shirin
-; 
-; I hereby certify that I have not received assistance on this assignment,
-; or used code, from ANY outside source other than the instruction team
-; (apart from what was provided in the starter file).
-;
+
 ;=================================================================================
 ; PUT ALL YOUR CODE AFTER THE main LABEL
 ;=================================================================================
@@ -235,4 +224,5 @@ palindrome ; Hint, do not change this label and use for recursive alls
 ; Backup all used registers, R7 first, using proper stack discipline
 
 ; Resture all used registers, R7 last, using proper stack discipline
+
 .END
