@@ -1,16 +1,5 @@
 ;=========================================================================
-; Name & Email must be EXACTLY as in Gradescope roster!
-; Name: Emilio Rivas 
-; Email: emilio.rivas@email.ucr.edu
-; 
-; Assignment name: Assignment 3
-; Lab section: 002
-; TA: Karan
-; 
-; I hereby certify that I have not received assistance on this assignment,
-; or used code, from ANY outside source other than the instruction team
-; (apart from what was provided in the starter file).
-;
+
 ;=========================================================================
 
 .ORIG x3000			; Program begins here
@@ -105,3 +94,4 @@ Value .FILL xABCD; <----!!!NUMBER TO BE DISPLAYED AS BINARY!!! Note: label is re
 ;END of PROGRAM
 ;---------------	
 .END
+
