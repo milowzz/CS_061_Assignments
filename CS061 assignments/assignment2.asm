@@ -1,17 +1,6 @@
 
 ;=========================================================================
-; Name & Email must be EXACTLY as in Gradescope roster!
-; Name: Emilio Rivas 
-; Email: emilio.rivas@email.ucr.edu
-; 
-; Assignment name: Programming Assignment 2
-; Lab section: 002
-; TA: Karan
-; 
-; I hereby certify that I have not received assistance on this assignment,
-; or used code, from ANY outside source other than the instruction team
-; (apart from what was provided in the starter file).
-;
+
 ;=========================================================================
 
 .ORIG x3000			; Program begins here
@@ -138,4 +127,5 @@ SPACE .FILL #32     ; ASCII code of [space]
 ;---------------	
 ;END of PROGRAM
 ;---------------	
+
 .END
