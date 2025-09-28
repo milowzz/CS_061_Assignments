@@ -1,16 +1,5 @@
 ;=========================================================================
-; Name & Email must be EXACTLY as in Gradescope roster!
-; Name: Emilio A Rivas 
-; Email: emilio.rivas@email.ucr.edu
-; 
-; Assignment name: Assignment 4
-; Lab section: 002 
-; TA: Karan
-; 
-; I hereby certify that I have not received assistance on this assignment,
-; or used code, from ANY outside source other than the instruction team
-; (apart from what was provided in the starter file).
-;
+
 ;=================================================================================
 ;THE BINARY REPRESENTATION OF THE USER-ENTERED DECIMAL NUMBER MUST BE STORED IN R4
 ;=================================================================================
@@ -230,6 +219,7 @@ newline         .FILL #-10
 ; Otherwise, the program will emit its own newline after 5 input digits.
 ; The program must end with a *single* newline, entered either by the user (< 5 digits), or by the program (5 digits)
 ; Input validation is performed on the individual characters as they are input, but not on the magnitude of the number.
+
 
 
 
